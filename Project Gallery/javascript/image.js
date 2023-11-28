@@ -1,5 +1,5 @@
 
-
+/*
 const images = [
     'image/img_1.jpg',
     'image/img.jpg',
@@ -34,3 +34,4 @@ preloadImages();
 
 
 setInterval(changeBackgroundImage, 5000);
+*/
