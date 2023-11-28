@@ -122,6 +122,22 @@
     padding: 5rem;
 
 }
+.slide-1{
+    width: 360px;
+    min-height: 400px;
+    box-shadow: 0 0 4px #d4ecff;
+    border-radius: 4px;
+    border:2px solid black;
+    cursor: pointer;
+    background-color: #fff;
+    overflow: hidden;
+    transition: all 0.3s ease;
+  }
+  .slide-1:hover {
+    box-shadow: 1px 1px 8px #d4ecff;
+    background-color: #f9fdff;
+    transform: translateY(-2px); /* slide to upward */
+  }
 .heading{
     font-size: 3rem;
 }
